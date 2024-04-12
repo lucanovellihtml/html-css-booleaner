@@ -1,3 +1,5 @@
+
+
 /* -------- HEADER -------- */
 .intestazione {
     background-color: aquamarine;
@@ -20,6 +22,7 @@
 .corpo-pagina {
     padding-left: 20px;
     padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 /* SEZIONE HEADER */
@@ -89,6 +92,21 @@
 
 .tabella .riga-custom {
     background-color: rgba(128, 128, 128, 0.26);
+}
+
+/* ------------------------ */
+
+/* -------- FOOTER -------- */
+.fine-pagina {
+    background-color: black;
+}
+
+#paragrafo-sei-header {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-block-end: 0px;
 }
 
 /* ------------------------ */
