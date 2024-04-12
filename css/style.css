@@ -1,0 +1,17 @@
+/* -------- HEADER -------- */
+.intestazione {
+    background-color: aquamarine;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#contenitore-intestazione-logo {
+    margin-inline-start: 20px;
+}
+
+#logo-svg {
+    width: 250px;
+    height: auto;
+}
+
+/* ------------------------ */
