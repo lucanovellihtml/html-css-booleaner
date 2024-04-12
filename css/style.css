@@ -23,8 +23,9 @@
 }
 
 /* SEZIONE HEADER */
-.intestazione-sezione-uno h1,
-p {
+#titolo-sezione-uno,
+#paragrafo-uno-sezione-uno,
+#paragrafo-due-sezione-due {
     margin: 0;
 }
 
@@ -39,6 +40,19 @@ p {
 
 #paragrafo-uno-sezione-uno {
     font-size: 20px;
+}
+
+
+/* SEZIONE FIGURE */
+#contenitore-sezione-immagine {
+    padding-top: 10px;
+    margin-inline-start: 0px;
+    margin-block-end: 0px;
+}
+
+#paragrafo-tre-sezione-uno,
+#paragrafo-quattro-sezione-uno {
+    margin: 0;
 }
 
 /* ------------------------ */
