@@ -18,16 +18,17 @@
 
 /* -------- MAIN -------- */
 .corpo-pagina {
-    margin-inline-start: 20px;
+    padding-left: 20px;
+    padding-top: 40px;
 }
 
-/* SEZIONE UNO */
-.contenitore-sezione-uno {
-    padding-top: 30px;
-    line-height: 0.1;
+/* SEZIONE HEADER */
+.intestazione-sezione-uno h1,
+p {
+    margin: 0;
 }
 
-.contenitore-sezione-uno h1 {
+#titolo-sezione-uno {
     font-size: 40px;
 }
 
@@ -39,4 +40,5 @@
 #paragrafo-uno-sezione-uno {
     font-size: 20px;
 }
+
 /* ------------------------ */
