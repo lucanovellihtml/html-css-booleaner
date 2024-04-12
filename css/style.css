@@ -4,7 +4,7 @@ body {
 
 /* -------- HEADER -------- */
 .intestazione {
-    background-color: aquamarine;
+    background-color: skyblue;
     padding-top: 40px;
     padding-bottom: 40px;
 }
@@ -45,6 +45,11 @@ body {
 
 #paragrafo-uno-sezione-uno {
     font-size: 20px;
+}
+
+#paragrafo-uno-sezione-uno u {
+    color: skyblue;
+    text-decoration: none;
 }
 
 
@@ -100,7 +105,7 @@ body {
 
 /* -------- FOOTER -------- */
 .fine-pagina {
-    background-color: black;
+    background-color: rgb(11, 11, 77);
 }
 
 #paragrafo-sei-header {
