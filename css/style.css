@@ -15,3 +15,28 @@
 }
 
 /* ------------------------ */
+
+/* -------- MAIN -------- */
+.corpo-pagina {
+    margin-inline-start: 20px;
+}
+
+/* SEZIONE UNO */
+.contenitore-sezione-uno {
+    padding-top: 30px;
+    line-height: 0.1;
+}
+
+.contenitore-sezione-uno h1 {
+    font-size: 40px;
+}
+
+#paragrafo-uno-sezione-uno,
+#paragrafo-due-sezione-due {
+    color: gray;
+}
+
+#paragrafo-uno-sezione-uno {
+    font-size: 20px;
+}
+/* ------------------------ */
